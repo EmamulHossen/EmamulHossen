@@ -1,17 +1,16 @@
-### Assalamualaikum, I' am Emamul Hossen
-#### Being a Python Programmer, I'm Data Science addicted.
-![Being a Python Programmer, I'm Data Science addicted.](https://scontent.fjsr8-1.fna.fbcdn.net/v/t39.30808-6/330766442_1216241092620428_846472208562498044_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeHQytnP1Q6ecB9wWKNUjgRi1gxzzgU4_q3WDHPOBTj-rSyodqEWa1Pkl9qqFY_-4iSmGFy7E7H8ROEcnL3VQiRf&_nc_ohc=a-MXxCmLBwYAX8GUs3V&_nc_ht=scontent.fjsr8-1.fna&oh=00_AfDv8wYKf7TyfmJVT4rjB463LV05pKHEm056x2GaTipSvw&oe=63EDAA73)
+**Assalamualaikum, I' am Emamul Hossen**<br/>
+**As a Python programmer, I'm addicted to the world of Data Science.**<br/>
 
 
-Skills: Python | ML
+**Skills:** Python | ML | DL | NLP
 
-- 🔭 I’m currently working on Machine Learning Algorithm 
-- 🌱 I’m currently learning Deep Learning 
-- 💬 Ask me about Python, ML 
-- 📫 How to reach me: emamulhosseniu2137@gmail.cojm 
+- 🔭 I’m currently working on **Machine Learning Algorithm**
+- 🌱 I’m currently learning **Deep Learning**
+- 💬 Ask me about **Python, ML,DL** 
+- 📫 How to reach me: emamulhosseniu2137@gmail.com 
 
 
-I am studying (undergraduate) in the Department of Biomedical Engineering at Islamic University, Bangladesh. I am highly interested in the research field of medical image processing, signal processing, health informatics using machine learning and deep learning techniques.
+**I am an undergraduate student majoring in Biomedical Engineering at Islamic University, Bangladesh. My keen interest lies in the research domain of medical image processing, signal processing, and health informatics. I am enthusiastic about applying machine learning and deep learning techniques to address challenges in these areas, aiming to contribute to advancements in healthcare through data-driven solutions.**
 
 
 
